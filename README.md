@@ -20,7 +20,9 @@ The **diamond industry** maintains secrecy in pricing strategies, making it diff
 
 ## Report
 
-[![FreeFolio Demo](https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/2024-12/freefolio_screenshot_1.png?itok=fzqFgSTa)](https://www.youtube.com/watch?v=awNxFPPbwP4)
+[![Diamond Price Analysis Report](https://github.com/tdolan12/Diamond_Price_Analysis_Public/blob/main/Report%20Image.png?raw=true)](https://github.com/tdolan12/Diamond_Price_Analysis_Public/blob/main/Diamond_Price_Analysis_Report.pdf)
+
+^^^ Click to Read Full Report ^^^
 
 ## Technical Notes
 
