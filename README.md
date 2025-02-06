@@ -18,6 +18,10 @@ The **diamond industry** maintains secrecy in pricing strategies, making it diff
 - **Statistical Significance**: The final model shows that increasing carat by **1%** leads to an approximate **1.89% increase** in price.
 - **Comparative Model Evaluation**: Multiple models were tested, with **Model 4** (including all predictors) yielding the best performance.
 
+## Report
+
+[![FreeFolio Demo](https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/2024-12/freefolio_screenshot_1.png?itok=fzqFgSTa)](https://www.youtube.com/watch?v=awNxFPPbwP4)
+
 ## Technical Notes
 
 ### **Dataset & Preprocessing**
@@ -51,6 +55,9 @@ The **diamond industry** maintains secrecy in pricing strategies, making it diff
 - **Dataset Bias**: Focused on **luxury-grade diamonds**, limiting generalizability.
 - **Omitted Features**: Diamond **shape** was not included but likely influences pricing.
 - **Market Fluctuations**: Prices may have changed since **2017**, affecting model accuracy.
+
+## Code Access
+This repository is private. If you have any questions or would like to discuss the project, please message me directly.
 
 ## License
 This project is released under an open-source license. See [LICENSE](LICENSE) for details.
