@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an in-depth analysis of **diamond pricing** based on **carat weight and other attributes**. The study aims to provide insights into how **carat, cut, clarity, and color** influence a diamond’s market value.
+This repository contains an in-depth analysis of **diamond pricing** based on carat weight and other attributes. The study aims to provide insights into how carat, cut, clarity, and color influence a diamond’s market value.
 
 ## Problem Addressed
 
